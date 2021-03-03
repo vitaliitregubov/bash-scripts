@@ -38,4 +38,15 @@
 #         ;;
 # esac
 
+# LOOP
+# FILES=$(ls *.txt)
+# NEW="new"
+
+# for FILE in $FILES
+#     do 
+#         echo "renaming $FILE to new-$FILE"
+#         mv $FILE $NEW-$FILE
+# done
+
+# ls
 
