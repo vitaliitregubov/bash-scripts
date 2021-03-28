@@ -1,3 +1,5 @@
 # DragAndDrop_Kanban-board
 
-<a href="https://sleepy-northcutt-61248c.netlify.app/" target="_blank">View online</a>
+## Having fun with "Drag n' Drop"
+
+### CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link to check out the UI: <a href="https://sleepy-northcutt-61248c.netlify.app/">View online</a>
