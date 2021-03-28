@@ -20,9 +20,12 @@
 
         <div id="backlog-content" class="custom-scroll">
           <ul
-            class="drag-item-list" id="backlog-list"
-            ondrop="drop(event)" ondragover="allowDrop(event)"
-            ondragenter="dragEnter(0)">
+            class="drag-item-list" id="backLogList"
+            ondrop="drop('backLogList')" ondragover="allowDrop(event)"
+            ondragenter="dragEnter('backLogList')">
+            <li>Some item</li>
+            <li>Some item</li>
+            <li>Some item</li>
           </ul>
         </div>
 
@@ -41,9 +44,9 @@
 
         <div id="progress-content" class="custom-scroll">
           <ul
-            class="drag-item-list" id="progress-list"
-            ondrop="drop(event)" ondragover="allowDrop(event)"
-            ondragenter="dragEnter(1)">
+            class="drag-item-list" id="progressList"
+            ondrop="drop('progressList')" ondragover="allowDrop(event)"
+            ondragenter="dragEnter('progressList')">
           </ul>
         </div>
 
@@ -62,9 +65,9 @@
 
         <div id="complete-content" class="custom-scroll">
           <ul
-            class="drag-item-list" id="complete-list"
-            ondrop="drop(event)" ondragover="allowDrop(event)"
-            ondragenter="dragEnter(2)">
+            class="drag-item-list" id="completeList"
+            ondrop="drop('completeList')" ondragover="allowDrop(event)"
+            ondragenter="dragEnter('completeList')">
           </ul>
         </div>
 
@@ -83,9 +86,9 @@
 
         <div id="on-hold-content" class="custom-scroll">
           <ul
-            class="drag-item-list" id="on-hold-list"
-            ondrop="drop(event)" ondragover="allowDrop(event)"
-            ondragenter="dragEnter(3)">
+            class="drag-item-list" id="onHoldList"
+            ondrop="drop('onHoldList')" ondragover="allowDrop(event)"
+            ondragenter="dragEnter('onHoldList')">
           </ul>
         </div>
 

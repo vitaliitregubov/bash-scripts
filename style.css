@@ -49,6 +49,10 @@ li {
   flex-basis: 300px;
 }
 
+.over {
+  padding-top: 50px;
+}
+
 h1 {
   height: 40px;
   text-align: center;
