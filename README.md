@@ -1,3 +1,3 @@
 # DragAndDrop_Kanban-board
 
-https://www.youtube.com/watch?v=Ht7uvrEA1pg
+<a href="https://sleepy-northcutt-61248c.netlify.app/" target="_blank">View online</a>
